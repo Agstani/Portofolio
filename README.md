@@ -1,6 +1,6 @@
 # portofolio.github.io
 git init
-git add .
+git add MyProject .
 git add README.md
 git commit -m "first commit"
 git branch -M main
